@@ -1,0 +1,41 @@
+{
+  "name": "pdfjs-dist-for-node",
+  "version": "1.0.893",
+  "description": "Generic build of Mozilla's PDF.js library.",
+  "keywords": [
+    "Mozilla",
+    "pdf",
+    "pdf.js"
+  ],
+  "homepage": "http://mozilla.github.io/pdf.js/",
+  "bugs": {
+    "url": "https://github.com/mozilla/pdf.js/issues"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mozilla/pdfjs-dist"
+  },
+  "_id": "pdfjs-dist-for-node@1.0.893",
+  "dist": {
+    "shasum": "10be171dc212f4aa862528b43258d745399bc3ad",
+    "tarball": "http://registry.npmjs.org/pdfjs-dist-for-node/-/pdfjs-dist-for-node-1.0.893.tgz"
+  },
+  "_from": "pdfjs-dist-for-node@*",
+  "_npmVersion": "1.4.13",
+  "_npmUser": {
+    "name": "jbenet",
+    "email": "juan@benet.ai"
+  },
+  "maintainers": [
+    {
+      "name": "jbenet",
+      "email": "juan@benet.ai"
+    }
+  ],
+  "directories": {},
+  "_shasum": "10be171dc212f4aa862528b43258d745399bc3ad",
+  "_resolved": "https://registry.npmjs.org/pdfjs-dist-for-node/-/pdfjs-dist-for-node-1.0.893.tgz",
+  "gitHead": "d84d11af8a0248153d9bed6d4da948b6eae0fd02",
+  "scripts": {}
+}
